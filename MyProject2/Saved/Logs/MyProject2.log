@@ -3988,3 +3988,8 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Concrete_Grime wa
 [2025.10.23-10.37.18:360][312]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.10.23-10.37.18:360][312]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2025.10.23-10.37.18:360][312]LogShaderCompilers: Display: ================================================
+[2025.10.23-10.39.37:842][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.23-10.39.37:846][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.034
+[2025.10.23-10.40.30:068][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3260.083496
+[2025.10.23-10.40.31:069][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-10.40.31:069][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3260.748291, Update Interval: 311.720947
